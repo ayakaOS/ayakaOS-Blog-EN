@@ -1,1 +1,65 @@
-[]
+[
+	{
+		"name": "ayakaOS",
+		"year": 2026,
+		"image": "blob:https://ayakaosblog.vercel.app/e05bc17a-598e-443a-be49-c6732e60473e",
+		"url": "ayakaos.asia",
+		"description": "ayakaOS是基于GNU/LINUX的开源发行版。",
+		"tags": [
+			"ayakaOS",
+			"GNU/LINUX",
+			"Arch Linux"
+		],
+		"github": "https://github.com/ayakaOS/ayakaOS"
+	},
+	{
+		"name": "ayakaOS-Calamares-Config",
+		"year": 2026,
+		"image": "blob:https://ayakaosblog.vercel.app/25b3c138-40db-4d14-9eeb-2f0b840a457f",
+		"url": "ayakaOS.asia",
+		"description": "ayakaOS的Calamares安装器配置",
+		"tags": [
+			"GNU/LINUX",
+			"Arch Linux",
+			"ayakaOS",
+			"ayakaOS-Calamares-Config"
+		],
+		"github": "https://github.com/ayakaOS/ayakaOS-Calamares-Config"
+	},
+	{
+		"name": "ayakaOS-repo",
+		"year": 2026,
+		"image": "blob:https://ayakaosblog.vercel.app/c179f79e-18d5-4973-803a-0c6b8d80a737",
+		"url": "ayakaos.asia",
+		"description": "ayakaOS的自建软件源仓库",
+		"tags": [
+			"ayakaOS",
+			"GNU/LINUX",
+			"Arch Linux",
+			"ayakaOS-repo"
+		],
+		"github": "https://github.com/ayakaOS/ayakaOS-repo"
+	},
+	{
+		"name": "ayakaOS官网",
+		"year": 2026,
+		"image": "blob:https://ayakaosblog.vercel.app/f71da2e9-aa67-4359-8e99-ea980ddeff29",
+		"url": "ayakaos.asia",
+		"description": "ayakaOS官网",
+		"tags": [
+			"ayakaOS",
+			"Official Website"
+		]
+	},
+	{
+		"name": "ayakaOS博客",
+		"year": 2026,
+		"image": "blob:https://ayakaosblog.vercel.app/47b99697-e6c5-452a-8b5a-d7211a78645e",
+		"url": "ayakaos.de5.net",
+		"description": "你没看错，就是你所看的地方。我们得官方博客。",
+		"tags": [
+			"ayakaOS",
+			"Blog"
+		]
+	}
+]

@@ -28,19 +28,19 @@ const list = [
 	{
 		icon: ScrollOutlineSVG,
 		iconActive: ScrollFilledSVG,
-		label: '所有文章',
+		label: 'all articles',
 		href: '/blog'
 	},
 	{
 		icon: ProjectsOutlineSVG,
 		iconActive: ProjectsFilledSVG,
-		label: '我们的项目',
+		label: 'our projects',
 		href: '/projects'
 	},
 	{
 		icon: AboutOutlineSVG,
 		iconActive: AboutFilledSVG,
-		label: '关于博客',
+		label: 'about the blog',
 		href: '/about'
 	}
 ]

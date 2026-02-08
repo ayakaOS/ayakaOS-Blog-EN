@@ -3,25 +3,13 @@
 		"name": "ayakaOS-Calamares-Config",
 		"year": 2026,
 		"image": "/images/project/861a6b720cdd6739.jpg",
-		"url": "ayakaOS.asia",
-		"description": "ayakaOS的Calamares安装器配置",
+		"url": "https://github.com/ayakaOS/ayakaOS-Calamares-Config",
+		"description": "ayakaOS Calamares Installer Configuration",
 		"tags": [
 			"GNU/LINUX",
 			"Arch Linux",
 			"ayakaOS",
 			"ayakaOS-Calamares-Config"
-		],
-		"github": "https://github.com/ayakaOS/ayakaOS-Calamares-Config"
-	},
-	{
-		"name": "ayakaOS博客",
-		"year": 2026,
-		"image": "/images/project/861a6b720cdd6739.jpg",
-		"url": "ayakaos.de5.net",
-		"description": "你没看错，就是你所看的地方。我们得官方博客。",
-		"tags": [
-			"ayakaOS",
-			"Blog"
 		]
 	}
 ]

@@ -1,9 +1,7 @@
-你好～我是ayakaOS官网&博客的开发人员～ 本博客基于YYsuni大佬的开源仓库（https://github.com/YYsuni/2025-blog-public ）搭建，感谢大佬的开源成果！
+Hello everyone! I'm the developer of the ayakaOS blog and the official ayakaOS website. This blog is built based on the open-source repository by the great YYsuni (https://github.com/YYsuni/2025-blog-public) – a huge thank you for the amazing open-source work!
  
-突然不知道写点什么，只觉得特别开心能让大家看到这篇文章～ 系统开发那边的进度我回头会使劲催，大家放心！
+My mind’s gone a blank trying to think of what to write, I’m just really happy to have you all read this post. Don’t worry, I’ll be sure to chase the team on the progress of the system development!
  
-以后我就是这个博客的主要更新者啦，其他小伙伴都超懒的嘿嘿。这里会不定期更新我们的碎碎念，也会分批上线ayakaOS相关教程，算是咱们的专属根据地了哦。
-
-还有还有，以后这个紫色封面背景就是我啦～其他人的背景颜色可跟我不一样，这是我专属的哦～！
+I’ll be the main updater for this blog from now on – the other team members are all pretty lazy, hehe. We’ll post our random thoughts here from time to time, and also release ayakaOS-related tutorials in batches. This will be our exclusive hub for all tutorials!
  
-常来看看呀，这次就先写到这里，bye～
+Do drop by often! That’s all for now, bye~

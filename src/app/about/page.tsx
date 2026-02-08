@@ -114,7 +114,7 @@ export default function Page() {
 								</div>
 
 								{loading ? (
-									<div className='text-secondary text-center'>预览渲染中...</div>
+									<div className='text-secondary text-center'>Loading...</div>
 								) : (
 									<div className='card relative p-6'>
 										<div className='prose prose-sm max-w-none'>{content}</div>
@@ -158,7 +158,7 @@ export default function Page() {
 							</motion.div>
 
 							{loading ? (
-								<div className='text-secondary text-center'>加载中...</div>
+								<div className='text-secondary text-center'>Loading...</div>
 							) : (
 								<motion.div initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: 1, scale: 1 }} className='card relative p-6'>
 									<div className='prose prose-sm max-w-none'>{content}</div>

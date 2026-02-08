@@ -60,11 +60,11 @@
 			"order": 2
 		},
 		{
-			"id": "email",
-			"type": "email",
-			"value": "yysuni1001@gmail.com",
-			"label": "",
-			"order": 1
+			"id": "button-1770565846049",
+			"type": "link",
+			"value": "https://ayakaos.de5.net/",
+			"label": "zh-cn",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "slug": "260208-01",
+    "title": "Hello world！！！！！",
+    "tags": [
+      "Rambling Post"
+    ],
+    "date": "2026-02-08T23:43",
+    "summary": "First Rambling Post",
+    "cover": "/blogs/260208-01/1d33b5bda141d4dd.png",
+    "hidden": false,
+    "category": "Developers' Ramblings"
+  }
+]

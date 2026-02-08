@@ -158,7 +158,7 @@ export default function SocialButtons() {
 
 		if (button.type === 'email' || button.type === 'wechat' || button.type === 'qq') {
 			const messageMap: Record<'email' | 'wechat' | 'qq', string> = {
-				email: '邮箱已复制到剪贴板',
+				email: 'E-mail copied',
 				wechat: '微信号已复制到剪贴板',
 				qq: 'QQ号已复制到剪贴板'
 			}

@@ -28,19 +28,19 @@ const list = [
 	{
 		icon: ScrollOutlineSVG,
 		iconActive: ScrollFilledSVG,
-		label: 'all articles',
+		label: 'All Articles',
 		href: '/blog'
 	},
 	{
 		icon: ProjectsOutlineSVG,
 		iconActive: ProjectsFilledSVG,
-		label: 'our projects',
+		label: 'Our Projects',
 		href: '/projects'
 	},
 	{
 		icon: AboutOutlineSVG,
 		iconActive: AboutFilledSVG,
-		label: 'about the blog',
+		label: 'About the Blog',
 		href: '/about'
 	}
 ]

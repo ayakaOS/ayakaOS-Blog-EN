@@ -1,16 +1,5 @@
 [
 	{
-		"name": "ayakaOS官网",
-		"year": 2026,
-		"image": "/images/project/861a6b720cdd6739.jpg",
-		"url": "ayakaos.asia",
-		"description": "ayakaOS官网",
-		"tags": [
-			"ayakaOS",
-			"Official Website"
-		]
-	},
-	{
 		"name": "ayakaOS-Calamares-Config",
 		"year": 2026,
 		"image": "/images/project/861a6b720cdd6739.jpg",
@@ -23,28 +12,6 @@
 			"ayakaOS-Calamares-Config"
 		],
 		"github": "https://github.com/ayakaOS/ayakaOS-Calamares-Config"
-	},
-	{
-		"name": "ayakaOS官网",
-		"year": 2026,
-		"image": "/images/project/861a6b720cdd6739.jpg",
-		"url": "ayakaos.asia",
-		"description": "ayakaOS官网",
-		"tags": [
-			"ayakaOS",
-			"Official Website"
-		]
-	},
-	{
-		"name": "ayakaOS官网",
-		"year": 2026,
-		"image": "/images/project/861a6b720cdd6739.jpg",
-		"url": "ayakaos.asia",
-		"description": "ayakaOS官网",
-		"tags": [
-			"ayakaOS",
-			"Official Website"
-		]
 	},
 	{
 		"name": "ayakaOS博客",
